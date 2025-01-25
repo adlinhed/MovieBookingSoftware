@@ -2,14 +2,7 @@ package questionTwo;
 
 import java.util.Scanner;
 
-/**
- * F28PA | Software Development A | Coursework
- * 
- * The Coursework specification is provided in Canvas. Please read through it in
- * full before you start work.
- * 
- * @author NUR ADLIN FADHLINA BINTI HEDILIYSAM
- */
+
 public class BookingSoft {
 	public static void main(String[] args) throws InterruptedException {
 		// There are currently 6 shows offered in 6 different venues.
